@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Client">
+    <output-path>$PROJECT_DIR$/out/artifacts/Client</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="MainArchivizer" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="Client" />
+        <option name="vendor" value="Qrt-Hdst" />
+        <option name="version" value="26-11-2017" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Client.jar">
+        <element id="module-output" name="Client" />
+      </element>
+    </root>
+  </artifact>
+</component>
